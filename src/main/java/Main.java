@@ -5,6 +5,5 @@ public class Main {
         System.out.println("Hello world!");
         Window window = Window.get();
         window.run();
-
     }
 }
